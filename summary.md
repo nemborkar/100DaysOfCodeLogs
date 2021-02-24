@@ -5,7 +5,18 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 ## Log
 
 ### 20210224 Day 03
+Made a new repo for logs  
 
+Now to continue with the todo app and front end side of things.  
+
+Features to add,  
+[Done] 1 - have a link on the main page to the todos page  
+[Done] 2 - make sure there's a box/form over the add button to accept input;  
+[Tomorrow] 3 - make sure this creates an object in the database  
+
+Refamiliarized myself with an old project and chose some features to add. Almost started a deep dive into Django redirect() but looking at a sample project on stackoverflow, what I actually needed was a simple URL built-in template instead  
+
+Link for Redirect deepdive: https://realpython.com/django-redirects/  
 
 
 
