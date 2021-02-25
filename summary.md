@@ -24,9 +24,10 @@ Features to add,
 [Done] 2 - make sure there's a box/form over the add button to accept input;  
 [Tomorrow] 3 - make sure this creates an object in the database  
 
-Refamiliarized myself with an old project and chose some features to add. Almost started a deep dive into Django redirect() but looking at a sample project on stackoverflow, what I actually needed was a simple URL built-in template instead  
+Refamiliarized myself with the old project and chose some features to add. Almost started a deep dive into Django redirect() but looking at a sample project on stackoverflow, what I actually needed was a simple URL built-in template instead  
 
 Link for Redirect deepdive: https://realpython.com/django-redirects/  
+Might do that in tomorrow's study session  
 
 
 
