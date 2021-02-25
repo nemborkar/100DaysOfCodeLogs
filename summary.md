@@ -4,6 +4,16 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210225 Day 04 
+Was low on motivation but managed to pull a pretty productive hour  
+Project was lacking a base.html and got home.html to extend from it  
+
+Explored bootstrap and my goodness, this simplifies SO MANY THINGS. The docs are super helpful with examples to work with. I wanna deep dive into this when I need to work on a more formal project. Just brilliant <3  
+
+Gonna rethink the models tomorrow and add forms to actually add objects to the database  
+
+
+
 ### 20210224 Day 03
 Made a new repo for logs  
 
