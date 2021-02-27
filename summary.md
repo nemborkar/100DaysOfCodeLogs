@@ -4,6 +4,12 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210227 Day 05
+Couldn't do much yesterday and today was busy too but pushed through to finalize the database model and added forms. Really wanted to power through and get this done but need sleep and my 1 hour is out.  
+
+Tomorrow, accept inputs on the HTML page and make sure the object is added all the way in the database  
+
+
 ### 20210225 Day 04 
 Was low on motivation but managed to pull a pretty productive hour  
 Project was lacking a base.html and got home.html to extend from it  
