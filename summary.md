@@ -4,6 +4,16 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210228 Day 06
+Yet another busy day and got home with just enough time to do the 1 hour of code  
+
+Pulled objects from database to display on the main page  
+Got HTTP POST to work  
+
+Input is not being validated correctly and the form isn't saving.  
+Will look into this tomorrow.  
+
+
 ### 20210227 Day 05
 Couldn't do much yesterday and today was busy too but pushed through to finalize the database model and added forms. Really wanted to power through and get this done but need sleep and my 1 hour is out.  
 
