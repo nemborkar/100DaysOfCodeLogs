@@ -4,6 +4,17 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210301 Day 07
+Day 7 of #100DaysOfCode  
+
+Started working with a larger team on a real project today. Very excited with the new job! The CTO gave me a tour of the project. Got venv setup today and basically looked at the structure of the project.  
+
+After trying to run the server, what I thought was a package version issues, turned out to be me working on the wrong branch lol. Learned about how to correctly read remote and local git branches.
+[Essentially remotes/origin/main vs main, respectively]  
+
+All in all a good day; learned a lot!  
+
+
 ### 20210228 Day 06
 Yet another busy day and got home with just enough time to do the 1 hour of code  
 
@@ -36,8 +47,8 @@ Made a new repo for logs
 Now to continue with the todo app and front end side of things.  
 
 Features to add,  
-[Done] 1 - have a link on the main page to the todos page  
-[Done] 2 - make sure there's a box/form over the add button to accept input;  
+- [x] 1 - have a link on the main page to the todos page  
+- [x] 2 - make sure there's a box/form over the add button to accept input;  
 [Tomorrow] 3 - make sure this creates an object in the database  
 
 Refamiliarized myself with the old project and chose some features to add. Almost started a deep dive into Django redirect() but looking at a sample project on stackoverflow, what I actually needed was a simple URL built-in template instead  
