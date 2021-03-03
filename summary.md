@@ -4,6 +4,14 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210302 Day 08
+
+Ended taking up a challenge to optimize an api. Learned a lot about Django ORM.   
+Encountered a procrastination mindset; gotta be aware of that and careful.  
+Couldn't actually do anything, so feeling kinda down but I have a lot to learn.  
+Gotta pick up and continue.  
+
+
 ### 20210301 Day 07
 Day 7 of #100DaysOfCode  
 
