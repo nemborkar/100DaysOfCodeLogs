@@ -4,6 +4,22 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210303 Day 09
+
+Mostly went through documentations today.  
+Learned more about how models are connected to the database and how to write querysets.  
+
+Practiced writing QuerySets with Django's QuerySets API; very fun, kinda intuitive  
+
+Tomorrow:  
+Don't read all but go through the [QuerySet API reference doc](https://docs.djangoproject.com/en/3.1/ref/models/querysets)  
+Learn how to render the data to the templates/views  
+
+Later:  
+Gotta think about writing fast, optimal querysets  
+
+
+
 ### 20210302 Day 08
 
 Ended taking up a challenge to optimize an api. Learned a lot about Django ORM.   
