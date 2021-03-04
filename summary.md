@@ -4,6 +4,18 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210304 Day 10
+
+The overall goal is to improve the loading time of the graphs; perhaps I can take a look at some of the other functions and get some ideas.  
+
+Actually, trying to speed up loading times for a JsonResponse object in Django  
+
+Tomorrow we try out,  
+- Lists, Tuples and other object types? instead of dictionaries
+- A different type of encoding for the JsonResponse
+- Actual code optimization 
+
+
 ### 20210303 Day 09
 
 Mostly went through documentations today.  
