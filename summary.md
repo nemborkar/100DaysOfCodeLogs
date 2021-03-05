@@ -4,6 +4,12 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210305 Day 11
+
+Tried to get a better understanding of how the api calls are made and how the functions are invoked. Learned that **kwargs are passed from the URL.  
+
+Turns out the API was delivering a small history list with a hefty for loop behind it. Didn't seem to be useful on the front end. So tried to remove. Latency improved significantly. No changes to the front too! Submitted my first PR at the new job  
+
 ### 20210304 Day 10
 
 The overall goal is to improve the loading time of the graphs; perhaps I can take a look at some of the other functions and get some ideas.  
