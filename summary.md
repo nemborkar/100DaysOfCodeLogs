@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210307 Day 12
+
+To add some variety, started reading Cracking the Coding Interview  
+
 ### 20210305 Day 11
 
 Tried to get a better understanding of how the api calls are made and how the functions are invoked. Learned that **kwargs are passed from the URL.  
