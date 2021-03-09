@@ -7,7 +7,7 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 ### 20210309 Day 14
 
 Played around with Python runtime optimization techniques  
-Took extensive notes; should try codiong challenges with this rules for optimization  
+Took extensive notes; should try coding challenges with these rules for optimization  
 
 ### 20210308 Day 13
 
