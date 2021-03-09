@@ -4,6 +4,11 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210309 Day 14
+
+Played around with Python runtime optimization techniques  
+Took extensive notes; should try codiong challenges with this rules for optimization  
+
 ### 20210308 Day 13
 
 Took a deep dive into Big O to improve the running time of code. Gotta look into Python specific optimizations tomorrow.  
