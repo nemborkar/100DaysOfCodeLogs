@@ -4,6 +4,11 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210310 Day 15
+
+Brushed up on Data Structures and Algorithms for more complex parts to come.  
+Getting a new client next week, so learning their stack.  
+
 ### 20210309 Day 14
 
 Played around with Python runtime optimization techniques  
