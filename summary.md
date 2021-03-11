@@ -4,6 +4,22 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210311 Day 16
+
+Remember the API I miserably failed to improve on Day 8 and somehow did it by just removing code on Day 11? Well, it came back to haunt me today.  
+
+Turns out it was being called by another page too. BUT my idea to make it modular got the thumbs up! So I did it and latency improved by 33%!  
+
+Probably the last big achievement of my 20s!  
+
+previously combined,  
+details page: 900min-1600max ms  
+graph page: 1000min-3800max ms  
+
+after making them modular,  
+details page: 700min-1400max ms  
+graph page: 800min-2500max ms  
+
 ### 20210310 Day 15
 
 Brushed up on Data Structures and Algorithms for more complex parts to come.  
