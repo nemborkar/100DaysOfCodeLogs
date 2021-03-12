@@ -4,6 +4,14 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210312 Day17
+
+Here's something I'm trying to figure out: my local Starbucks' wifi doesn't allow #VPN traffic.  
+Not sure if it's the ports that get blocked or explicit 'no-encryption' rules or somehow disallowed at a DNS level or something else.  
+Built a small checklist to troubleshoot this  
+
+Side note, my pull request from yesterday was merged into the main project. Best. Birthday gift. Ever!!
+
 ### 20210311 Day 16
 
 Remember the API I miserably failed to improve on Day 8 and somehow did it by just removing code on Day 11? Well, it came back to haunt me today.  
