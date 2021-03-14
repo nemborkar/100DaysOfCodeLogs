@@ -4,6 +4,16 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210314 Day18
+
+Off day, so chose to read instead. Looked into some techniques to optimize and solve problems.  
+1 Look for Bottlenecks, Unnecessary Work, Duplicate work  
+2 DIY  
+3 Simplify and Generalize  
+4 Base case and build  
+5 Data structure brainstorn  
+
+
 ### 20210312 Day17
 
 Here's something I'm trying to figure out: my local Starbucks' wifi doesn't allow #VPN traffic.  
