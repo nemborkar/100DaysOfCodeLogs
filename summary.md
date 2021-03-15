@@ -4,6 +4,12 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210315 Day19
+
+Getting back into JavaScript since the new client will be using Kintone APIs extensively  
+Also took a look at Kintone APIs; seems fairly well documented  
+
+
 ### 20210314 Day18
 
 Off day, so chose to read instead. Looked into some techniques to optimize and solve problems.  
