@@ -4,6 +4,14 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210317 Day21
+Got the handover for the entire project from the senior engineer today  
+Gonna build stuff with kintone tomorrow  
+Looked into ways to combine APIs to limit API calls  
+Also read about BCR (best conceivable runtime)  
+Gotta think and plan carefully before pitching a code-optimized solution to an org who has chosen a low code, no code solution  
+
+
 ### 20210316 Day20
 Most JP/KR IPs from my VPN provider are blacklisted at Starbucks  
 Manila, Singapore, Mumbai worked though  
