@@ -4,11 +4,18 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210318 Day22
+Built a small Dunder Mifflin paper ordering app on Kintone  
+Understood how kintone workflows function; it's mostly Process Management (Status, Action, Assignee)
+Also looked into Logiless and Asteria APIs. Logiless is fine because it simplifies ordering stuff on various sites but I'm not so sure about Asteria.  
+Seems like a middleman pushing their way in...
+
+
 ### 20210317 Day21
 Got the handover for the entire project from the senior engineer today  
 Gonna build stuff with kintone tomorrow  
 Looked into ways to combine APIs to limit API calls  
-Also read about BCR (best conceivable runtime)  
+Also read about BCR (best conceivable runtime)
 Gotta think and plan carefully before pitching a code-optimized solution to an org who has chosen a low code, no code solution  
 
 
