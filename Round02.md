@@ -4,6 +4,11 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210319 Day23
+
+Continued building stuff on #Kintone  
+Nothing too crazy but messed around with lookups and events  
+
 ### 20210318 Day22
 Built a small Dunder Mifflin paper ordering app on Kintone  
 Understood how kintone workflows function; it's mostly Process Management (Status, Action, Assignee)
