@@ -4,6 +4,11 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210322 Day24
+Looked into OAuth 2.0 and considered building an authorization server  
+Gotta get back into javascript, since we are gonna need it in the workplace soon  
+
+
 ### 20210319 Day23
 
 Continued building stuff on #Kintone  
