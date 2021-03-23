@@ -4,6 +4,15 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210323 Day25
+
+Finally got admin rights and was able to follow up and deliver on some user requests in Kintone  
+Got a test app to build  
+Built a basic backend in Kintone and planning to build a nice little front end for it  
+Gonna use React.js, so got react on my dev environment. Faced some hurdles due to old packages but managed to upgrade to the latest versions; kinda going against the [tutorial](https://www.youtube.com/watch?v=Ke90Tje7VS0) I'm following but wth  
+Tomorrow, we shall continue learning react
+
+
 ### 20210322 Day24
 Looked into OAuth 2.0 and considered building an authorization server  
 Gotta get back into javascript, since we are gonna need it in the workplace soon  
