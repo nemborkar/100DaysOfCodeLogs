@@ -4,6 +4,12 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210324 Day26
+
+Mostly messed with Kintone's JavaScript customizations  
+Then also took a look at a certain API from Logiless; will be using OAuth2.0 to implement this tomorrow  
+
+
 ### 20210323 Day25
 
 Finally got admin rights and was able to follow up and deliver on some user requests in Kintone  
