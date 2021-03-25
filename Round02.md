@@ -7,6 +7,8 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 ### 20210325 Day27
 Deep diving in REST APIs and docs with this guide and some hands on Postman calls  
 [API Guide](https://idratherbewriting.com/learnapidoc/)  
+To understand Logiless documentations, I need to have a good understanding of REST APIs and OAuth2.0  
+I understand them conceptually but practical application is what I'm trying to do now  
 
 
 ### 20210324 Day26
