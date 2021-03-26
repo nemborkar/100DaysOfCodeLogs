@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210326 Day28
+
+Encountered some wild code today and ended up learning about minifying JS and CSS  
+
 ### 20210325 Day27
 Deep diving in REST APIs and docs with this guide and some hands on Postman calls  
 [API Guide](https://idratherbewriting.com/learnapidoc/)  
