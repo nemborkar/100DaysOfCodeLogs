@@ -4,6 +4,12 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210329 Day29
+
+Learned about Swap memory pros and cons.  
+Added more RAM to my Linux dev laptop and completely removed swap memory.  
+
+
 ### 20210326 Day28
 
 Encountered some wild code today and ended up learning about minifying JS and CSS  
