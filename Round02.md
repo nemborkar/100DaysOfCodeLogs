@@ -4,6 +4,13 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210330 Day30
+
+Today I learned that minified JavaScript can't just be unminified again.  
+Need the original files or good luck reverse engineering that. Also learned about bundling.  
+Super useful for code optimization  
+
+
 ### 20210329 Day29
 
 Learned about Swap memory pros and cons.  
