@@ -4,13 +4,6 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
-### 20210403 Day32
-
-Trying to build APIs with Django REST framework and [this tutorial](https://medium.com/swlh/build-your-first-rest-api-with-django-rest-framework-e394e39a482c)  
-Can't seem to import from the rest_framework package into the myapp/serializer.py file for some reason. Even tried in a different IDE to no avail.  
-
-Folks on the overflow say it could be an issue with the virtual environment... will try to recreate it tomorrow  
-
 ### 20210401 Day31
 
 Work responsibilities are slowly ramping up. Between training 3 interns, getting a handover from the previous engineer, being the only technical person, dealing with a non-tech try-hard who is probably trying to trip me any chance he gets and learning Japanese becasue that's the language of operation, I'm surprised I'm still sane and having things outside of work. Yesterday was the first time I stayed till 2am devising a pitch to the CEO and the office Dwight on how to solve a problem. I came with 4 different solutions based on what they would respond. Being the only tech person in a non-tech company is way more social than I expected.  
