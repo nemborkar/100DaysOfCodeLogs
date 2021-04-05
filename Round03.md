@@ -4,6 +4,18 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210405 Day34
+
+Mostly closed out for the client today  
+Managed to hotfix a bug on my last day. The previous dev used a lot of intermediary tools, so was hard to pinpoint problems. Just very poorly designed and documented; or more like, used as an experiment to learn new stuff.  
+Our changes in the file were not being reflected on the front end and I thought it was because they discontinued the customization options. So I went another way and made changes on the back end at the database level. Changes were approved but something else broke today and the office Dwight was adamant that the customizations can still be done!  
+
+So I pulled the old code from the github repos and webpacked it together. Still didn't work  
+Dwight was trying older versions of the code but then it hit me to use the minified code directly into the site instead of going via dropbox  
+To my disbelief, it worked. I wasted my last week because dropbox was not passing the file  
+The issue is, it's hard to work under pressure without a second opinion or a person to bounce ideas off of  
+I finally see why pair programming is even a concept  
+
 ### 20210404 Day33
 
 Installing djangorestframework globally on my machine solved yesterday's problem #DerpMoment  
