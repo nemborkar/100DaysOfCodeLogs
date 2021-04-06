@@ -4,6 +4,13 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210406 Day35
+
+Setup the venv and IDE for this but mostly refamiliarized myself with an old project that I'm gonna get back into  
+Good to return to python and django after dealing with the bane that is CSS  
+
+Read a bit into BCR (best conceivable runtime) and where to draw the line when it comes to code optimization. It's interesting to see how if your BCR is O(n), everything that is O(n) or below can be counted within that time.
+ 
 ### 20210405 Day34
 
 Mostly closed out for the client today  
