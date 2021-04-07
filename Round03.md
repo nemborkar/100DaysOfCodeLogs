@@ -9,7 +9,7 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 Nothing too intensive today. Learned about various software licenses.  
 So far I love the MIT one followed by BSD  
 
-Probably gonna be rebuilding an API tomoorrow  
+Probably gonna be rebuilding an API tomorrow  
 
 ### 20210406 Day35
 
