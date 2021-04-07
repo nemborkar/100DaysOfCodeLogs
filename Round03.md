@@ -4,6 +4,13 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210407 Day36
+
+Nothing too intensive today. Learned about various software licenses.  
+So far I love the MIT one followed by BSD  
+
+Probably gonna be rebuilding an API tomoorrow  
+
 ### 20210406 Day35
 
 Setup the venv and IDE for this but mostly refamiliarized myself with an old project that I'm gonna get back into  
