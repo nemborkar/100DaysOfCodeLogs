@@ -4,6 +4,11 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210408 Day37
+
+Figured out the dependencies in the Django project and started writing the new API  
+Also read about things to prioritise when writing code
+
 ### 20210407 Day36
 
 Nothing too intensive today. Learned about various software licenses.  
