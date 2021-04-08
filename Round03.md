@@ -8,6 +8,8 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 Figured out the dependencies in the Django project and started writing the new API  
 Also read about things to prioritise when writing code
+Macros: Correct, Efficient, Simple, Readable, Maintainable
+Micros: Use Data Structures generously, Appropriate Code Reuse, Modular, Flexible and Robust, Error Checking
 
 ### 20210407 Day36
 
