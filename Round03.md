@@ -8,8 +8,30 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 Figured out the dependencies in the Django project and started writing the new API  
 Also read about things to prioritise when writing code  
-Macros: Correct, Efficient, Simple, Readable, Maintainable  
-Micros: Use Data Structures generously, Appropriate Code Reuse, Modular, Flexible and Robust, Error Checking  
+
+## Macro Mindsets:  
+* Correct
+> should work on all expected AND UNEXPECTED inputs
+* Efficient
+> Big O with time and space complexity  
+* Simple
+> Short and Sweet  
+* Readable
+> Anyone should be able to read and understand what's going on; use comments to explain  
+* Maintainable
+> Can be easy to change  
+
+## Micro Habits:  
+* Use Data Structures Generously
+> if it doesn't impact big O time, use them generously
+* Appropriate Code Reuse
+> can you write generic functions that can be used for reusability
+* Modular
+> many little functions to do specific things > a giant script with global variables lol
+* Flexible and Robust
+> basically should scale well regardless of input
+* Error Checking
+> kinda like input validation; DO NOT FORGET
 
 ### 20210407 Day36
 
