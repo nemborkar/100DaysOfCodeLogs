@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210409 Day38
+
+Trying to take it easy on the weekend, so started reading the section about Data Structures in Cracking the Coding Interview  
+
 ### 20210408 Day37
 
 Figured out the dependencies in the Django project and started writing the new API  
