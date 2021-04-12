@@ -4,6 +4,12 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210409 Day39
+
+Wrestled with Django QuerySet API; trying to understand a giant query with a subquery inside it. Based on this one, I need to write my own that will be slightly more complex as it will take multiple inputs  
+
+This is more headache than I initially planned for  
+
 ### 20210409 Day38
 
 Trying to take it easy on the weekend, so started reading the section about Data Structures in Cracking the Coding Interview  
