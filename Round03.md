@@ -4,6 +4,14 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210410 Day40
+
+Finally wrote out the API function and complex queryset from yesterday in Django  
+
+Next step is to figure out how to pass a list of integers through kwargs from the front  
+
+Then plug the API into the rest of the project to start testing and optimizing  
+
 ### 20210409 Day39
 
 Wrestled with Django QuerySet API; trying to understand a giant query with a subquery inside it. Based on this one, I need to write my own that will be slightly more complex as it will take multiple inputs  
