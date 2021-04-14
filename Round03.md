@@ -4,7 +4,18 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
-### 20210410 Day40
+### 20210414 Day41
+
+Plugged my API into the monolithic Django project today  
+
+The good: it worked...  
+The bad: ...but not as expected  
+The ugly: it's slow af 😭  
+
+Tomorrow, I'll fix it and optimize to improve time complexity  
+Also solved two leetcode problems from the coding book  
+
+### 20210413 Day40
 
 Finally wrote out the API function and complex queryset from yesterday in Django  
 
@@ -12,17 +23,17 @@ Next step is to figure out how to pass a list of integers through kwargs from th
 
 Then plug the API into the rest of the project to start testing and optimizing  
 
-### 20210409 Day39
+### 20210412 Day39
 
 Wrestled with Django QuerySet API; trying to understand a giant query with a subquery inside it. Based on this one, I need to write my own that will be slightly more complex as it will take multiple inputs  
 
 This is more headache than I initially planned for  
 
-### 20210409 Day38
+### 20210410 Day38
 
 Trying to take it easy on the weekend, so started reading the section about Data Structures in Cracking the Coding Interview  
 
-### 20210408 Day37
+### 20210409 Day37
 
 Figured out the dependencies in the Django project and started writing the new API  
 Also read about things to prioritise when writing code  
