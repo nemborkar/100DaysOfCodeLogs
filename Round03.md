@@ -4,6 +4,11 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210415 Day42
+Got the API to work as expected. I was using + in the URL (which is actually an operator); decided to go with something that can be used to separate numbers: characters! Worked like a charm but it's still very slow.  
+
+Listed out a few ways to improve performance. Will plan on implementations and implement tomorrow.  
+
 ### 20210414 Day41
 
 Plugged my API into the monolithic Django project today  
