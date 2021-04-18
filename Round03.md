@@ -4,6 +4,16 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210418 Day 43
+
+Finally had some time to build a basic Flask app to understand its workings  
+I'm liking it so far; it feels much lighter and leaner than Django  
+(Although the server doesn't auto start like Django, so that's a bit annoying)  
+
+Struggled a bit with git and github remote commands to push the project  
+Looking okay now  
+
+
 ### 20210415 Day42
 Got the API to work as expected. I was using + in the URL (which is actually an operator); decided to go with something that can be used to separate numbers: characters! Worked like a charm but it's still very slow.  
 
