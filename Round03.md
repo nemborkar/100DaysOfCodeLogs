@@ -4,6 +4,11 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210420 Day44
+
+Interviewed with a potential client yesterday and got really great feedback and direction. So took a look at Web Assembly and Python __slots__  
+Tbh if I don't get it this time, I have enough intel to build functional projects and get it the next time  
+
 ### 20210418 Day 43
 
 Finally had some time to build a basic Flask app to understand its workings  
