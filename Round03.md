@@ -9,6 +9,9 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 When trying to figure out front end requirements (as a back end dev), pitch/ask for expected JSON output  
 That's a good place to start negotiations and set performance expectations  
 
+After a week's silence, I finally got osme feedback on the API I made (the guy IS really busy, so can't blame him tbh)  
+Turns out the API I built wasn't exactly what he was asking for; so after some clarifications, gonna rebuild it  
+
 ### 20210420 Day44
 
 Interviewed with a potential client yesterday and got really great feedback and direction. So took a look at Web Assembly and Python __slots__  
