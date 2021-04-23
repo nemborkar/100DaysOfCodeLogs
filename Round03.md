@@ -4,6 +4,14 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210423 Day46
+
+Continued building the API in the monolithic Django project  
+DB was down, so was kinda hard to test the new functions  
+It seems like it was fixed around 17:45, soo values after 17:50 were there  
+My API seems to be working fine but will need the DB to be populated to get all values  
+Without making too many changes, guess I'll just wait it out and test tomorrow  
+
 ### 20210422 Day45
 
 When trying to figure out front end requirements (as a back end dev), pitch/ask for expected JSON output  
