@@ -4,6 +4,11 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210426 Day47
+
+After a well rested weekend, came back to the project guns blazing. Issues I was struggling with for hours and days last week, I finished in two hours today.  
+It was mainly a motivation thing. Note to Self: When stumped, take a break, reset and return with maximum energy.  
+
 ### 20210423 Day46
 
 Continued building the API in the monolithic Django project  
