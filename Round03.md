@@ -4,6 +4,17 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210427 Day48
+
+Looked into hosting my own VPN server. Considering Linode or Digital Ocean; both seem cost effective options.  
+Side note, I got the job I was aiming for! Will be starting as a back end developer at Rakuten in mid May!  
+Gotta start learning their stack now. I have roughly 14 days to learn, 
+* Flask
+* Kubernetes
+* Jenkins
+* Redis
+* Memcache
+
 ### 20210426 Day47
 
 After a well rested weekend, came back to the project guns blazing. Issues I was struggling with for hours and days last week, I finished in two hours today.  
