@@ -4,12 +4,22 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210428 Day49
+
+Tried to optimize the API written in Django following these [basic principles](https://docs.djangoproject.com/en/3.2/topics/performance/)  
+Lots of neat little tips and tricks  
+
+Gotta start getting ready for Round04; will be learning Rakuten technologies and familiarizing myself with basic back end concepts  
+Will also need to continue studying the [roadmap](https://github.com/kamranahmedse/developer-roadmap/blob/master/img/backend.png?year-2021-2)
+Better to be overprepared than under  
+
 ### 20210427 Day48
 
 Looked into hosting my own VPN server. Considering Linode or Digital Ocean; both seem cost effective options.  
 Side note, I got the job I was aiming for! Will be starting as a back end developer at Rakuten in mid May!  
 Gotta start learning their stack now. I have roughly 14 days to learn, 
 * Flask
+* Jinja2
 * Kubernetes
 * Jenkins
 * Redis
