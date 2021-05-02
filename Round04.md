@@ -5,7 +5,7 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 ## Log
 
 ### 20210502 Day52
-Continued my mission to get VPN #encryption at an open Starbucks wifi hotspot. With my new VPN server, I was able to read server logs. TLS handshake was failing. I'm assuming they are using a firewall to block OpenVPN's port 1194 traffic
+Continued my mission to get VPN encryption at an open Starbucks wifi hotspot. With my new VPN server, I was able to read server logs. TLS handshake was failing. I'm assuming they are using a firewall to block OpenVPN's port 1194 traffic
 
 Course of action:
 - find commands to check own network firewall and ports (home + starbucks)
