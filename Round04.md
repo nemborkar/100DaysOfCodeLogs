@@ -4,6 +4,14 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210503 Day53
+Learned the basics of redis today and tried out the RDM GUI 
+I'm guessing memory-optimized virtual servers would be ideal for redis since it's optimized for time but sacrifices space by caching queries in memory  
+Docs are pretty solid too. Installation and running server is pretty streamline too, so no complains there  
+
+When you try to ping the server, it responds with PONG  
+I laughed WAY TOO HARD  
+
 ### 20210502 Day52
 Continued my mission to get VPN encryption at an open Starbucks wifi hotspot. With my new VPN server, I was able to read server logs. TLS handshake was failing. I'm assuming they are using a firewall to block OpenVPN's port 1194 traffic
 
