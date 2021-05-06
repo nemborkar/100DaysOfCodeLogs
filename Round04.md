@@ -4,6 +4,14 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210506 Day54
+Dipped my toes into memcache. It's very similar to Redis (because essentially datastore and in-memory caching)  
+Seems like Memcache is multithreaded and simple but Redis is simglethreaded and offers a lot of utility  
+Also ended up reading [this comparison](https://www.linkedin.com/pulse/memcached-vs-redis-which-one-pick-ranjeet-vimal/)
+
+[AWS' Elasticache compares them too](https://aws.amazon.com/elasticache/redis-vs-memcached/)
+
+
 ### 20210503 Day53
 Learned the basics of redis today and tried out the RDM GUI 
 I'm guessing memory-optimized virtual servers would be ideal for redis since it's optimized for time but sacrifices space by caching queries in memory  
