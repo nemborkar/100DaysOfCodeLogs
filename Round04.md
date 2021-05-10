@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210510 Day55
+Getting back in after a long break. Started taking a look at Jenkins and CI/CD pipelines  
+
 ### 20210506 Day54
 Dipped my toes into memcache. It's very similar to Redis (because essentially datastore and in-memory caching)  
 Seems like Memcache is multithreaded and simple but Redis is simglethreaded and offers a lot of utility  
