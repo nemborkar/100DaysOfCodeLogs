@@ -4,6 +4,11 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210512 Day56
+Tried some coding challenges and found these nuggets  
+- when counting chars in a given string, try using a 26 char hashmap A-Z
+- when iterating, if space is not a problem, copy list. After processing an element, move it to end + pop to shorten next iteration
+
 ### 20210510 Day55
 Getting back in after a long break. Started taking a look at Jenkins and CI/CD pipelines  
 
