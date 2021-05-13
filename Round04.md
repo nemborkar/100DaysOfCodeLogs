@@ -4,6 +4,11 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210513 Day57
+Continued the string related coding challenges  
+TIL When solving for space complexity, see if you can predict and define dataset sizes (regardless of input)  
+Keeping it independent from the input improves Big O time and optimizes memory usage  
+
 ### 20210512 Day56
 Tried some coding challenges and found these nuggets  
 - when counting chars in a given string, try using a 26 char hashmap A-Z
