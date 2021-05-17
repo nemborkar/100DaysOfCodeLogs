@@ -4,6 +4,12 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210518 Day59
+Finally started working at Rakuten. Feels good to be back at a place with actual resources  
+Gonna look into Fast API and Pydantic tomorrow. Seems like we'll be using that a lot. From what my boss told me, Fast API is lighter than Django but bigger than Flask  
+
+Also finally, ate the frog and looked into Kubernetes today. Turns out it's very much like Auto Scaling groups but for Docker containers (ofc with differences)
+
 ### 20210517 Day58
 Learned more about systemd and ended up writing a service that links to my script. This script autoconnects to my (handmade) VPN server everytime I boot my laptop. Might tweak further.
 
