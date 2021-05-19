@@ -4,9 +4,15 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210519 Day60
+Finished onboarding, machine setup and remote work connection at the new workplace. Turns out the team uses Macs, so I'll be using a Mac too. Completely uncharted water for me; it's frustrating that it takes me a while to do basic stuff but I'll get there  
+
+Spent most of the time setting up environments today and took a seminar on Scrum basics  
+Got my hands dirty with homebrew. Learned a lot about pipenv vs venv  
+
 ### 20210518 Day59
 Finally started working at Rakuten. Feels good to be back at a place with actual resources  
-Gonna look into Fast API and Pydantic tomorrow. Seems like we'll be using that a lot. From what my boss told me, Fast API is lighter than Django but bigger than Flask  
+Gonna look into Fast API and Pydantic tomorrow. Seems like we'll be using that a lot. From what my boss told me, Fast API is lighter than Django but bigger than Flask 
 
 Also finally, ate the frog and looked into Kubernetes today. Turns out it's very much like Auto Scaling groups but for Docker containers (ofc with differences)
 
