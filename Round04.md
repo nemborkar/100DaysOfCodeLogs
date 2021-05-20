@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210520 Day61
+Learned more about pipenv and why it's important to select a version of Python when creating it. Played around with FastAPI and built as basic functioning server  
+Will add more to it tomorrow  
+
 ### 20210519 Day60
 Finished onboarding, machine setup and remote work connection at the new workplace. Turns out the team uses Macs, so I'll be using a Mac too. Completely uncharted water for me; it's frustrating that it takes me a while to do basic stuff but I'll get there  
 
