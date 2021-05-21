@@ -4,6 +4,14 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210521 Day62
+Built the basic apis endpoints to Store, Check and Release Pokemon in a PokemonPC. Got annoyed because I had to add data every time the server restarted  
+So I decided to attach an sqlite db just to preserve the data.  
+
+The documentation I followed lead me into using sqlalchemy models. I was supposed to use pydantic models T_T  
+Reverted to previous commit and will restart with pydantic models next time  
+
+
 ### 20210520 Day61
 Learned more about pipenv and why it's important to select a version of Python when creating it. Played around with FastAPI and built as basic functioning server  
 Will add more to it tomorrow  
