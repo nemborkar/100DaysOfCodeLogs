@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210524 Day63
+Added some basic OAuth2 functionality to one of my PokemonPC API endpoints. Also did a deep dive into JSON web tokens (JWT)  
+Tomorrow, will complete the OAuth2 authentication implementation and add JWT authorization  
+
 ### 20210521 Day62
 Built the basic apis endpoints to Store, Check and Release Pokemon in a PokemonPC. Got annoyed because I had to add data every time the server restarted  
 So I decided to attach an sqlite db just to preserve the data.  
