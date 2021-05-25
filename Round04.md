@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210525 Day64
+Completed the OAuth2 implementation and managed to Authenticate a test user  
+#TIL if you don't want to setup a database and it can be a list of dictionaries, you can totally use hard coded dummy values to roll out a demo on time  
+
 ### 20210524 Day63
 Added some basic OAuth2 functionality to one of my PokemonPC API endpoints. Also did a deep dive into JSON web tokens (JWT)  
 Tomorrow, will complete the OAuth2 authentication implementation and add JWT authorization  
