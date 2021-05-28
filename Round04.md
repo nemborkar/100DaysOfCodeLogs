@@ -4,6 +4,11 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210528 Day65
+Learned about PCI DSS (Payment Card Industry Data Security Standards) and list of OWASP top 10 threats (Open Web Application Security Project)  
+Might do a deep dive in the future  
+Also learned about dynamically generated classes in python from a senior. Looks really fun!  
+
 ### 20210525 Day64
 Completed the OAuth2 implementation and managed to Authenticate a test user  
 #TIL if you don't want to setup a database and it can be a list of dictionaries, you can totally use hard coded dummy values to roll out a demo on time  
