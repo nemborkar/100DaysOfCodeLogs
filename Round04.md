@@ -5,7 +5,7 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 ## Log
 
 ### 20210531 Day66
-Read about building secure software from the get go instead of adding secuirty as a finishing touch  
+Read about building secure software from the get go instead of adding security as a finishing touch  
 Had a good laugh about "insecure" software and how to make it make it (feel) better    
 
 ### 20210528 Day65
