@@ -4,6 +4,12 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210609 Day69
+The api calls are working on Postman  
+Seems like I'll need to write a Python script and use Requests to make the API call, then filter from this result  
+I'm not really sure what to do with this filtered result.  
+My senpai was talking about dynamic classes. Could be related, should ask  
+
 ### 20210608 Day68
 Finalized scope and started building models from an existing templates file  
 It's looking like an API wrapper imo  
