@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
-### 20210609 Day69
+### 20210609 Day69 (Nice)
 The api calls are working on Postman  
 Seems like I'll need to write a Python script and use Requests to make the API call, then filter from this result  
 I'm not really sure what to do with this filtered result.  
