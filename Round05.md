@@ -4,6 +4,13 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210610 Day70
+Clarified. First I need to get a JSON response (string) with my code
+
+Then I'll need to json.parse(response) to convert it from string into a JS object  
+Then I need to map the required keys (from the front end's requirements) to the available keys (essentially everything spewed from the giant db)  
+
+
 ### 20210609 Day69 (Nice)
 The api calls are working on Postman  
 Seems like I'll need to write a Python script and use Requests to make the API call, then filter from this result  
