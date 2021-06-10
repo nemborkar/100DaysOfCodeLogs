@@ -5,11 +5,19 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 ## Log
 
 ### 20210610 Day70
-Clarified. First I need to get a JSON response (string) with my code
+Clarified. First I need to get a JSON response (string) with my code  
 
-Then I'll need to json.parse(response) to convert it from string into a JS object  
-Then I need to map the required keys (from the front end's requirements) to the available keys (essentially everything spewed from the giant db)  
+    r = request.get("endpoint, path, param URL")
+Then I'll need to json.parse(response) or something similar to convert it from string into a JS object  
 
+    res_obj = r.json() 
+    #OR
+    res_obj = json.parse(r)
+Then I need to map the available keys (essentially everything spewed from the giant db) to the required keys (from the front end's requirements) while dropping the unessential ones   
+The copy values to new keys  
+
+Before we do any of that, the required keys have already been defined by the product owners; must create models with those  
+Now studying how to separate classes/files in python  
 
 ### 20210609 Day69 (Nice)
 The api calls are working on Postman  
