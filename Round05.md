@@ -4,6 +4,24 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210614 Day71
+Migrated an individually owned repo to the big leagues in git. Mostly followed [this guide](https://smashingmagazine.com/2014/05/moving-git-repository-new-server/)
+
+Couldn't push to the new remote due to conflicting master branches,  
+new remote's ancient master branch had nothing  
+old remote's recent master branch had some updates  
+
+Was migrating from old remote to new remote
+    
+    git push --all new-remote
+
+All branches were pushed okay except master.  
+Originally planned to move default to another branch, delete master, push recent master to new remote and revert default to this recent master  
+Instead just pressed F (for force) and Just. Pushed. Harder.
+
+    git push -f <new_remote> <branch_name>
+
+
 ### 20210610 Day70
 Clarified. First I need to get a JSON response (string) with my code  
 
