@@ -4,6 +4,11 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210616 Day72
+Did not touch code today. Instead read a lot of fastapi and pydantic documentation  
+Had an epiphany that we might be building an API proxy  
+Will clarify tomorrow but would make life SO MUCH easier if that's what it is  
+
 ### 20210614 Day71
 Migrated an individually owned repo to the big leagues in git. Mostly followed [this guide](https://smashingmagazine.com/2014/05/moving-git-repository-new-server/)
 
