@@ -5,8 +5,8 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 ## Log
 
 ### 20210618 Day73
-Pair programmed with a senior dev at work. The sheer amount of knowledge I absorbed was colossal  
-A lot of unknowns in our project made so much sense and learned a lot of tips and tricks!  
+Pair programmed with a senior dev at work. It's unimaginable how much knowledge gets shared in casual conversation  
+A lot of unknowns in our project made so much more sense and learned a lot of tips and tricks!  
 
 ### 20210616 Day72
 Did not touch code today. Instead read a lot of fastapi and pydantic documentation  
