@@ -4,6 +4,11 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210621-22 Day74-75
+Added some GET methods to the endpoints  
+Also looking into gitx (a tool that allows individual lines to be commited)  
+some methods are not working, so gotta fix those and then add the rest of the operations  
+
 ### 20210618 Day73
 Pair programmed with a senior dev at work. It's unimaginable how much knowledge gets shared in casual conversation  
 A lot of unknowns in our project made so much more sense and learned a lot of tips and tricks!  
