@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210623 Day76
+Started using Black for formatting. Should've picked one earlier  
+Also, if you set your default git difftool to VSCode you can stage and commit selected parts of your code  
+
 ### 20210621-22 Day74-75
 Added some GET methods to the endpoints  
 Also looking into gitx (a tool that allows individual lines to be commited)  
