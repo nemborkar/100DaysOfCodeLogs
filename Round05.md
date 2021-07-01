@@ -4,6 +4,12 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210701 Day77-78
+Learned about [gitflow workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)  
+Started implementing it together with the team for better organizing the repo  
+Little trick I learned from my teammate: name your branch the same as the ticket number + small explanation for better readability  
+Will be writing Unit Tests for endpoints tomorrow  
+
 ### 20210623 Day76
 Started using Black for formatting. Should've picked one earlier  
 Also, if you set your default git difftool to VSCode you can stage and commit selected parts of your code  
