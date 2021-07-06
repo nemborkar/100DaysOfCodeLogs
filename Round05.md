@@ -4,6 +4,14 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210706 Day80
+Fastest way to familiarize yourself with a giant codebase?  
+
+Refactor and reorganize code but COMMIT NOTHING  
+Basically, dismantle and reassemble differently  
+
+If you end up improving it, you kill two birds with one stone  
+
 ### 20210705 Day79
 HTTP 200 example JSON outputs were not showing correctly  
 Experimented with a few different ways and had to bite the bullet of accepting imperfections (thanks for saving me from my tox side, teammate)  
