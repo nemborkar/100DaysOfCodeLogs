@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210707 Day81
+Refactored code and made it more modular  
+
 ### 20210706 Day80
 Fastest way to familiarize yourself with a giant codebase?  
 
