@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210709 Day82
+Turns out the refactoring I was doing was just the tip of the iceberg. Read docs, got my PR reviewed by senior devs and looked at existing repos for standards.  
+Ended up rehauling the whole project. But with this as a base, we are ready for future scaling  
+
 ### 20210707 Day81
 Refactored code and made it more modular  
 
