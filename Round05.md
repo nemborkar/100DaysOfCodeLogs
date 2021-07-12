@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210712 Day83
+After a lot of feedback, suggestions and changes from our senior devs, the refactor I was working on (last week) was approved and merged into the Develop branch! Also learned more about async [features](https://realpython.com/python-async-features/)  
+
+
 ### 20210709 Day82
 Turns out the refactoring I was doing was just the tip of the iceberg.  
 Read docs, got my PR reviewed by senior devs and looked at existing repos for standards.  
