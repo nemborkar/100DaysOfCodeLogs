@@ -4,6 +4,12 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210716 Day85
+Messed up big time rebasing a branch from upstream today. Lesson learned: you don't ALWAYS have to choose between incoming or existing code. We can just keep both and then trim manually  
+
+Useful command for #git postmortems,  
+$ git reflog show --date=iso
+
 ### 20210714 Day84
 Trying to get POST, PATCH and PUT methods to work on an upstream API  
 More good advice from my teammate: Breakdown the steps and troubleshoot as you go. It's better to overdo then delete, than to overthink and not do much. More code; less todos  
