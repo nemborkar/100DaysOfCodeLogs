@@ -4,6 +4,10 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210719 Day86
+Predominantly writing scripts in the last couple years, I had forgotten most of the OOP concepts I learnt back in the day studying C++/Java  
+So decided to brush up on Python specific OOP today  
+
 ### 20210716 Day85
 Messed up big time rebasing a branch from upstream today. Lesson learned: you don't ALWAYS have to choose between incoming or existing code. We can just keep both and then trim manually  
 
