@@ -4,6 +4,13 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210726 Day88
+After finishing rebase, git status will say your local branch has diverged from the remote and will suggest PULLING to MERGE from the remote  
+This defeats the whole purpose of the rebase! Why git, why?  
+
+To succesfully complete a rebase, force push local changes to remote!  
+This was the step I was missing, the last time I messed up my rebase!
+
 ### 20210720 Day87
 Adjusted some of the model classes to accept data from the PATCH method. PUT and POST are working though  
 Gotta troubleshoot this further...  
