@@ -10,6 +10,8 @@ Troubleshot a header dependency with our senior dev today. Explored options all 
 Also separated the giant ticket into smaller subtasks (and git branches)  
 Time to divide and conquer!
 
+Also, self project: created repo and venv for the python webscraper I'm slowly building lol  
+
 ### 20210726 Day88
 After finishing rebase, git status will say your local branch has diverged from the remote and will suggest PULLING to MERGE from the remote. This defeats the whole purpose of the rebase! Why git, why?  
 
