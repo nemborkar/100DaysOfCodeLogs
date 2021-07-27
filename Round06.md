@@ -4,6 +4,12 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210727 Day89
+Troubleshot a header dependency with our senior dev today. Explored options all the way back to the third party package that we are using in our dependency toolkit. Will probably discuss and resolve with our toolkit's team tomorrow  
+
+Also separated the giant ticket into smaller subtasks (and git branches)  
+Time to divide and conquer!
+
 ### 20210726 Day88
 After finishing rebase, git status will say your local branch has diverged from the remote and will suggest PULLING to MERGE from the remote. This defeats the whole purpose of the rebase! Why git, why?  
 
