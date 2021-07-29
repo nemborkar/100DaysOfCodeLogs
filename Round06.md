@@ -4,6 +4,12 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210729 Day91
+Today I solved a fairly complex issue with some basic dictionary manipulation  
+The API we are building and the API it's talking to accept JSON in very different formats  
+Just had to reshuffle the dictionary a bit and bam! Done!  
+All that leetcode grinding actually helped somewhere!  
+
 ### 20210728 Day90
 
 Toolkit team said no, so we are gonna use a bandaid fix to keep our stuff moving  
