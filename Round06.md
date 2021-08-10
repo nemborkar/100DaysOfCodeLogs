@@ -7,7 +7,7 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 ### 20210810 Day92
 Continued working on the little web scraper app  
 Tried doing it the oldschool way with regular epxressions  
-Trying Soup soon  
+Trying beautifulsoup4 soon  
 
 ### 20210729 Day91
 Today I solved a fairly complex issue with some basic dictionary manipulation  
