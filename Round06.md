@@ -4,6 +4,12 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210817 Day93
+Used fixtures to write tests for some core methods in the project  
+Side note, just learning the [types of errors](https://www.tutorialsteacher.com/python/error-types-in-python) can really up your troubleshooting game  
+
+To be honest, I was kinda losing motivation to finish this challenge. But the little break from the routine really helped get me back in the game. Now to power through and finish this off. Personally, I would really like to finish this challenge so I don't need to tweet about it EVERYDAY. Since I'm juggling a full time job and irl commitments, building two or three new things per week is a better approach than just raw daily unfocused time poured into something for just green squares on github. Not the best use of resources. But glad I took up the 100 days of code challenge and am set to finish it. Not recommended to others though.
+
 ### 20210810 Day92
 Continued working on the little web scraper app  
 Tried doing it the oldschool way with regular epxressions  
