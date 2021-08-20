@@ -4,6 +4,11 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210820 Day94~95
+Improved upon the tests and added one more fixture for a use case I overlooked  
+Changed were approved and merged into develop (^_^)v  
+Now for a relaxing weekend!  
+
 ### 20210817 Day93
 Used fixtures to write tests for some core methods in the project  
 Side note, just learning the [types of errors](https://www.tutorialsteacher.com/python/error-types-in-python) can really up your troubleshooting game  
