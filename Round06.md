@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210823 Day96
+Delete and Put methods turned out to use the exact same model in our project, so combined into one. Cleaned up the fixtures' responses too.  
+
 ### 20210820 Day94~95
 Improved upon the tests and added one more fixture for a use case I overlooked earlier. Changes were approved and merged into develop (^_^)v
 
