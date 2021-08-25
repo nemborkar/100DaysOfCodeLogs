@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210825 Day97
+Refactored a giant file into modular parts so it's easy to troubleshoot and add future endpoints and methods. Nothing too fancy, just organized design.  
+
 ### 20210823 Day96
 Delete and Put methods turned out to use the exact same model in our project, so combined into one. Cleaned up the fixtures' responses too.  
 
