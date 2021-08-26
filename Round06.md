@@ -4,6 +4,14 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210826 Day98
+3/7 tests pass
+
+Minor differences in JSON outputs. Tweaked fixture to match. Exact dictionaries but different order. But order shouldn't matter in JSON...  
+Wait a second... That's just a string, not JSON! Changed to JSON  
+
+7/7 tests pass
+
 ### 20210825 Day97
 Refactored a giant file into modular parts so it's easy to troubleshoot and add future endpoints and methods. Nothing too fancy, just organized design.  
 
