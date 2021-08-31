@@ -4,6 +4,13 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210831 Day100
+Mostly explained my code to the teammate and got both my little branches merged into the big ones  
+Read up on Pydantic's .env capabilities  
+Understood client requirements for the feature they need. Turns out it's not much work for us, the backend team. But Front end will be more involved in the logic  
+Got our big branches reviewed and merged into develop by our senior dev (mang, just talking to him is super educational)  
+Also learned to [mass delete local branches that are no longer on the remote repo](https://efficientcoder.net/delete-local-remote-git-branches/#remove-all-local-branches-not-on-remote)  
+
 ### 20210830 Day99
 This has been a long journey and I've come really far since I started 100 days of code
 
