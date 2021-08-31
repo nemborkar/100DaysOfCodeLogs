@@ -4,6 +4,13 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20210830 Day99
+This has been a long journey and I've come really far since I started 100 days of code
+
+Fixed up the branch I was working on and made a final PR  
+Client returned last week with some requests, so will start working on those soon  
+Need to read more on the requirements  
+
 ### 20210826 Day98
 3/7 tests pass
 
