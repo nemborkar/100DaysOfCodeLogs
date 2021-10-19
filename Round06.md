@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [February 22, Sunday, 2021].
 
 ## Log
 
+### 20211019 Day101
+Getting back into this with a private repo!
+
 ### 20210831 Day100
 Mostly explained my code to the teammate and got both my little branches merged into the big ones  
 Read up on Pydantic's .env capabilities  
